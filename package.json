@@ -1,0 +1,26 @@
+{
+  "name": "@beattyml/flint",
+  "version": "1.0.0",
+  "description": "A personal cli for starting new projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "tsc && jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/beattyml1/flint.git"
+  },
+  "keywords": [
+    "flint",
+    "cli",
+    "start",
+    "project",
+    "scaffold"
+  ],
+  "author": "beattyml1",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/beattyml1/flint/issues"
+  },
+  "homepage": "https://github.com/beattyml1/flint#readme"
+}
