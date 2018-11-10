@@ -30,5 +30,8 @@
   "bugs": {
     "url": "https://github.com/beattyml1/flint/issues"
   },
-  "homepage": "https://github.com/beattyml1/flint#readme"
+  "homepage": "https://github.com/beattyml1/flint#readme",
+  "bin" :{
+    "flint": "index.ts"
+  }
 }
