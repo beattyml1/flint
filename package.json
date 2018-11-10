@@ -19,6 +19,7 @@
   ],
   "dependencies": {
     "@beattyml1/functional": "^1.0.0",
+    "commander": "^2.19.0",
     "handlebars": "^4.0.12"
   },
   "devDependencies": {
@@ -31,7 +32,7 @@
     "url": "https://github.com/beattyml1/flint/issues"
   },
   "homepage": "https://github.com/beattyml1/flint#readme",
-  "bin" :{
+  "bin": {
     "flint": "index.ts"
   }
 }
